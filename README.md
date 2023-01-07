@@ -1,6 +1,7 @@
 # **Projeto React e API's**
  
- 
+ Primeiro projeto feito com manipulação de API's. Ainda é necessário adicionar algumas funcionalidades, como a página de detalhes e os modais. 
+ Você pode verificar o resultado do projeto nesse link: https://annoyed-ant.surge.sh/
  
  
 ### **Requisitos**
